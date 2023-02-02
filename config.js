@@ -1,15 +1,4 @@
 
-// Abang pilih yg mna tong hilap kasih credits
-// jangan lupa kasih credits
-// join gc https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2
-// owner wa.me/6283896480283
-// NAMA SESSIONS NYAA "session.data.json"
-// SC Ori By Aldi Lesmana
-// Base BhocilGaming
-// Owner Nya By ImYanXiao
-// Di Recode Ulang oleh 𝑍𝐼𝑅𝑂 😅
-// Jangan di hapus ath 😅
-
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -50,7 +39,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283896480283', '𝑍𝐼𝑅𝑂-𝑀𝐷', true],
+['6283896480283', 'AUDIKIRITO-𝑀𝐷', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
@@ -58,7 +47,7 @@ global.available = true //status online (online)
 global.mods = ['6283896480283']
 global.prems = ['6283896480283']
 global.nomorbot = '6283896480283'
-global.nameown = '𝗭𝗶𝗿𝗼-𝗠𝗗'
+global.nameown = 'AUDIKIRITO-𝗠𝗗'
 global.nomorown = '6283896480283'
 global.nomorown1 = '6283896480283'
 global.nomorown2 = '6283896480283'
@@ -74,24 +63,24 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝑍𝐼𝑅𝑂-𝑀𝐷'//nama group kalian
-global.author = '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti aja cuyyy
-global.namebot = '​𝗭𝗶𝗿𝗼𝗕𝗼𝘁𝘇-𝗠𝗗' //nama bot luh
-global.wm = '© 𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti aja
+global.gcname = 'AUDIKIRITO-𝑀𝐷'//nama group kalian
+global.author = 'AUDIKIRITO-𝑀𝐷' //ganti aja cuyyy
+global.namebot = '​AUDIKIRITO-𝗠𝗗' //nama bot luh
+global.wm = '© AUDIKIRITO-𝑀𝐷' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = '𝑍𝐼𝑅𝑂-𝑀𝐷 ' //wm nyaa kocak
+global.wm = 'AUDIKIRITO-𝑀𝐷 ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti ajaa 
+global.wm2 = 'AUDIKIRITO-𝑀𝐷' //ganti ajaa 
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `𝗭𝗶𝗿𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 | 𝑍𝐼𝑅𝑂-𝑀𝐷` //ganti aja
-global.stickpack = '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti 
-global.stickauth = `© 𝑍𝐼𝑅𝑂-𝑀𝐷` //gantii 
+global.titlebot = `AUDIKIRITO` //ganti aja
+global.stickpack = 'AUDIKIRITO' //ganti 
+global.stickauth = `© AUDIKIRITO` //gantii 
 global.week = `${week} ${date}` //Gak usah
 global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti 
-global.nameown2 = '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti 
+global.nameown1= 'AUDIKIRITO' //ganti 
+global.nameown2 = 'AUDIKIRITO' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
 global.lynk = 'https://trakteer.id/audi-sw-speve/tip'//ganti jadi link gc luh
@@ -557,7 +546,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.dtu = '?????????'
 global.urlnya = "https://trakteer.id/audi-sw-speve/tip"
 global.dtc = '???? ?????'
-global.phn = '0838-9648-0283'
+global.phn = '-'
 global.ultahowner = 'JULI 8 2004' //ultah luh 😭
 
 
