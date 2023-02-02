@@ -1,4 +1,3 @@
-
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -39,70 +38,70 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727733', 'Amelia-MD', true],
+['6283896480283', 'AUDIKIRITO-𝑀𝐷', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = []
-global.prems = []
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727733'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
-global.nomorwa = '0'
+global.mods = ['6283896480283']
+global.prems = ['6283896480283']
+global.nomorbot = '6283896480283'
+global.nameown = 'AUDIKIRITO-𝗠𝗗'
+global.nomorown = '6283896480283'
+global.nomorown1 = '6283896480283'
+global.nomorown2 = '6283896480283'
+global.nomorwa = '6283896480283'
 global.limitawal = {
 
     premium: "Infinity",
 
-    free: 20
+    free: 50
 
 }
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = 'Amelia MD'//nama group kalian
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
+global.gcname = 'AUDIKIRITO-𝑀𝐷'//nama group kalian
+global.author = 'AUDIKIRITO-𝑀𝐷' //ganti aja cuyyy
+global.namebot = '​AUDIKIRITO-𝗠𝗗' //nama bot luh
+global.wm = '© AUDIKIRITO-𝑀𝐷' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.wm = 'AUDIKIRITO-𝑀𝐷 ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa 
+global.wm2 = 'AUDIKIRITO-𝑀𝐷' //ganti ajaa 
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //gantu aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
-global.week = `${week} ${date}`
-global.wibb = `${wktuwib}`
+global.titlebot = `AUDIKIRITO` //ganti aja
+global.stickpack = 'AUDIKIRITO' //ganti 
+global.stickauth = `© AUDIKIRITO` //gantii 
+global.week = `${week} ${date}` //Gak usah
+global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= 'AUDIKIRITO' //ganti 
+global.nameown2 = 'AUDIKIRITO' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
+global.lynk = 'https://trakteer.id/audi-sw-speve/tip'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
+global.sig = 'https://trakteer.id/audi-sw-speve/tip' //ganti jadi ig mu
+global.sgh = 'https://trakteer.id/audi-sw-speve/tip' //github
+global.sgc = 'https://trakteer.id/audi-sw-speve/tip' //group whatsapp
+global.gcwangsaf = 'https://trakteer.id/audi-sw-speve/tip' //Group wa juga 
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
-global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727733'
+global.snh = 'https://trakteer.id/audi-sw-speve/tip' //yt klo punya 
+global.wame = 'https://trakteer.id/audi-sw-speve/tip' //Tautan Wa Kalian
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '083864727401'
-global.povo = '-'
-global.pgopay = '082214729677'
-global.plinkaja = '-' //link aja
-global.ppulsa = '083863727401'
-global.ppulsa2 = '082214729677'
-global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg'
+global.pdana = '6283896480283' //Isi aja klo punya 
+global.povo = '6283896480283' //Isi Aja klo punya 
+global.pgopay = '6283896480283' //Isi aja klo punya 
+global.plinkaja = '6283896480283' //link aja,isi Klo punya
+global.ppulsa = '6283896480283' //Isi aja klo punya 
+global.ppulsa2 = '6283896480283' //Isi aja klo punya 
+global.psaweria = '6283896480283' //Ganti aja ini Link gambar QR
 
 //bebas cuyyy yg atas mahh 
 
@@ -146,8 +145,8 @@ global.md = '_In progress, please wait..._'
 global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋! ◕◡◕'
 global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍! ◕◠◕'
 global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!!"
-global.syt = 'https://youtube.com/@Putra_Modz_' //youtube
-global.sytv = 'https://youtu.be/7JDmbvzJM1c'//link video yt
+global.syt = 'https://trakteer.id/audi-sw-speve/tip' //youtube
+global.sytv = 'https://trakteer.id/audi-sw-speve/tip'//link video yt
 global.packname = wm
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RPG GAME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -544,10 +543,10 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://trakteer.id/audi-sw-speve/tip"
 global.dtc = '???? ?????'
-global.phn = '0822 1472-9677'
-global.ultahowner = 'Febuari 02 2023'
+global.phn = '-'
+global.ultahowner = 'JULI 8 2004' //ultah luh 😭
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
