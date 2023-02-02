@@ -1,10 +1,4 @@
 
-//Abang pilih yg mna tong hilap kasih credits
-//jangan lupa kasih credits
-//join gc https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff
-//owner wa.me/6283863727733
-// NAMA SESSIONS NYAA "session.data.json"
-
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
